@@ -3,5 +3,29 @@
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
-  }
+  },
+  "name": "jaime",
+  "description": "monitor",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Padilla2012/employee-tracker.git"
+  },
+  "keywords": [
+    "hot"
+  ],
+  "author": "jaime padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Padilla2012/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Padilla2012/employee-tracker#readme"
 }
